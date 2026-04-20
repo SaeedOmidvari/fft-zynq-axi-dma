@@ -145,4 +145,4 @@ fft-zynq-axi-dma/
 
 ## Author
 
-**Muhammad Saeed**
+**Saeed Omidvari**
